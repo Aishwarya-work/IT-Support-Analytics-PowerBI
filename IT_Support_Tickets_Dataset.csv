@@ -1,0 +1,301 @@
+Ticket_ID,Created_Date,Resolved_Date,Category,Sub_Category,Priority,Status,Agent_Name,Channel,Customer_Department,Resolution_Time_Hours,SLA_Status
+TKT-1001,2024-02-27,,Application,CRM,Medium,Open,Ravi,Portal,HR,2,Met
+TKT-1002,2024-10-06,,Email,Mailbox,Low,Open,Aishwarya,Email,Finance,6,Met
+TKT-1003,2024-09-15,,Hardware,Printer,Medium,In Progress,Priya,Portal,Operations,39,Breached
+TKT-1004,2024-08-02,,Access,Folder Access,Low,Open,Priya,Call,IT,15,Met
+TKT-1005,2024-05-22,,Software,Office,Low,Open,Divya,Email,IT,10,Met
+TKT-1006,2024-06-25,,Network,VPN,Critical,In Progress,Aishwarya,Call,HR,39,Breached
+TKT-1007,2024-10-09,,Application,CRM,Medium,In Progress,Aishwarya,Email,Finance,19,Breached
+TKT-1008,2024-05-28,2024-05-28,Software,OS,Critical,Resolved,Divya,Portal,IT,6,Breached
+TKT-1009,2024-03-24,,Network,VPN,High,In Progress,Priya,Portal,HR,24,Breached
+TKT-1010,2024-03-28,2024-03-29,Application,ERP,Medium,Resolved,Divya,Call,Operations,35,Breached
+TKT-1011,2024-04-22,,Network,VPN,Medium,Open,Karthik,Call,IT,44,Breached
+TKT-1012,2024-02-03,,Email,Mailbox,Medium,In Progress,Divya,Call,Sales,14,Met
+TKT-1013,2024-03-14,,Software,OS,High,In Progress,Suresh,Call,Operations,17,Breached
+TKT-1014,2024-07-23,,Software,OS,Critical,Open,Aishwarya,Email,Finance,24,Breached
+TKT-1015,2024-03-22,2024-03-23,Access,User Access,Critical,Resolved,Suresh,Call,Operations,44,Breached
+TKT-1016,2024-05-08,,Hardware,Printer,Low,In Progress,Suresh,Call,IT,36,Breached
+TKT-1017,2024-02-27,,Access,User Access,Critical,Open,Priya,Portal,IT,19,Breached
+TKT-1018,2024-09-13,,Email,Outlook,High,In Progress,Suresh,Portal,Finance,12,Breached
+TKT-1019,2024-03-19,,Software,Antivirus,Low,In Progress,Karthik,Call,HR,24,Met
+TKT-1020,2024-02-27,,Network,VPN,Low,Open,Suresh,Email,HR,24,Met
+TKT-1021,2024-09-05,,Email,Outlook,Medium,In Progress,Divya,Portal,Finance,5,Met
+TKT-1022,2024-05-15,,Email,Mailbox,Medium,In Progress,Priya,Portal,Finance,34,Breached
+TKT-1023,2024-06-08,,Application,CRM,Critical,In Progress,Divya,Email,Finance,26,Breached
+TKT-1024,2024-04-25,,Network,VPN,Medium,In Progress,Ravi,Email,HR,5,Met
+TKT-1025,2024-01-31,,Hardware,Laptop,High,Open,Suresh,Email,IT,15,Breached
+TKT-1026,2024-09-05,,Email,Outlook,Critical,Open,Divya,Call,Finance,14,Breached
+TKT-1027,2024-02-18,2024-02-18,Application,CRM,High,Resolved,Divya,Call,HR,7,Met
+TKT-1028,2024-02-20,,Access,Folder Access,Low,Open,Ravi,Email,Operations,4,Met
+TKT-1029,2024-08-17,2024-08-17,Access,User Access,High,Resolved,Ravi,Email,Sales,9,Breached
+TKT-1030,2024-10-08,,Hardware,Printer,Low,Open,Ravi,Email,Sales,7,Met
+TKT-1031,2024-09-05,,Software,Office,Low,Open,Divya,Email,Sales,31,Breached
+TKT-1032,2024-05-15,,Network,WiFi,Critical,Open,Ravi,Call,Finance,30,Breached
+TKT-1033,2024-01-30,,Application,ERP,High,Open,Aishwarya,Portal,Sales,38,Breached
+TKT-1034,2024-09-14,,Software,OS,Low,Open,Aishwarya,Portal,HR,34,Breached
+TKT-1035,2024-04-30,,Hardware,Printer,Medium,In Progress,Suresh,Email,Operations,26,Breached
+TKT-1036,2024-02-11,,Application,CRM,High,Open,Priya,Portal,IT,27,Breached
+TKT-1037,2024-05-02,2024-05-02,Access,User Access,High,Resolved,Karthik,Email,HR,17,Breached
+TKT-1038,2024-08-22,,Email,Outlook,Low,In Progress,Ravi,Portal,IT,40,Breached
+TKT-1039,2024-03-08,2024-03-08,Hardware,Laptop,High,Resolved,Ravi,Call,Operations,23,Breached
+TKT-1040,2024-06-03,,Application,ERP,High,In Progress,Aishwarya,Email,IT,40,Breached
+TKT-1041,2024-02-29,2024-02-29,Application,ERP,High,Resolved,Suresh,Email,IT,7,Met
+TKT-1042,2024-04-14,2024-04-15,Application,CRM,Critical,Resolved,Aishwarya,Email,Sales,44,Breached
+TKT-1043,2024-05-21,,Hardware,Desktop,Medium,In Progress,Karthik,Email,Sales,3,Met
+TKT-1044,2024-10-09,,Access,User Access,Low,Open,Priya,Email,Operations,46,Breached
+TKT-1045,2024-01-19,,Email,Outlook,Critical,Open,Aishwarya,Call,IT,24,Breached
+TKT-1046,2024-01-21,,Software,Antivirus,Medium,In Progress,Aishwarya,Call,Operations,23,Breached
+TKT-1047,2024-07-27,,Application,ERP,Medium,Open,Ravi,Call,HR,40,Breached
+TKT-1048,2024-04-01,2024-04-03,Network,WiFi,Medium,Resolved,Ravi,Portal,HR,48,Breached
+TKT-1049,2024-07-14,2024-07-14,Access,User Access,Medium,Resolved,Karthik,Call,Finance,3,Met
+TKT-1050,2024-04-24,2024-04-24,Application,ERP,Critical,Resolved,Karthik,Email,IT,2,Met
+TKT-1051,2024-06-28,,Email,Mailbox,High,Open,Aishwarya,Call,Finance,42,Breached
+TKT-1052,2024-10-24,2024-10-24,Hardware,Laptop,Critical,Resolved,Priya,Call,Sales,17,Breached
+TKT-1053,2024-09-18,,Access,User Access,High,Open,Priya,Call,HR,8,Met
+TKT-1054,2024-09-23,2024-09-24,Application,ERP,High,Resolved,Aishwarya,Portal,IT,35,Breached
+TKT-1055,2024-06-09,,Hardware,Printer,High,In Progress,Karthik,Portal,Sales,43,Breached
+TKT-1056,2024-06-16,,Application,CRM,Medium,Open,Divya,Portal,Sales,26,Breached
+TKT-1057,2024-03-30,,Email,Mailbox,Critical,In Progress,Aishwarya,Call,IT,40,Breached
+TKT-1058,2024-04-17,2024-04-18,Email,Mailbox,Critical,Resolved,Divya,Portal,Finance,28,Breached
+TKT-1059,2024-09-18,2024-09-19,Application,ERP,Low,Resolved,Suresh,Portal,Operations,31,Breached
+TKT-1060,2024-06-20,,Software,Antivirus,High,Open,Ravi,Email,HR,6,Met
+TKT-1061,2024-01-24,2024-01-24,Access,User Access,Critical,Resolved,Priya,Portal,Finance,16,Breached
+TKT-1062,2024-07-15,,Access,User Access,Medium,In Progress,Priya,Email,HR,32,Breached
+TKT-1063,2024-08-05,,Software,Antivirus,Critical,Open,Suresh,Email,HR,15,Breached
+TKT-1064,2024-08-21,,Access,Folder Access,Critical,In Progress,Priya,Portal,Sales,9,Breached
+TKT-1065,2024-10-07,2024-10-08,Software,Antivirus,Critical,Resolved,Karthik,Email,IT,29,Breached
+TKT-1066,2024-09-23,2024-09-24,Application,ERP,High,Resolved,Aishwarya,Portal,IT,32,Breached
+TKT-1067,2024-04-30,,Network,WiFi,Low,Open,Ravi,Email,Sales,18,Met
+TKT-1068,2024-03-19,2024-03-20,Software,OS,Critical,Resolved,Karthik,Portal,Sales,46,Breached
+TKT-1069,2024-07-31,,Software,Office,Critical,In Progress,Priya,Email,Operations,4,Met
+TKT-1070,2024-07-13,2024-07-14,Hardware,Desktop,High,Resolved,Divya,Portal,Operations,31,Breached
+TKT-1071,2024-04-22,2024-04-23,Software,Office,Critical,Resolved,Aishwarya,Call,IT,32,Breached
+TKT-1072,2024-07-26,,Software,Office,Medium,In Progress,Suresh,Email,Sales,47,Breached
+TKT-1073,2024-10-15,,Hardware,Laptop,Critical,Open,Divya,Email,HR,43,Breached
+TKT-1074,2024-05-13,2024-05-14,Network,VPN,Critical,Resolved,Karthik,Call,IT,25,Breached
+TKT-1075,2024-08-03,,Hardware,Desktop,Low,In Progress,Suresh,Email,IT,17,Met
+TKT-1076,2024-04-24,,Hardware,Printer,Low,Open,Ravi,Email,HR,42,Breached
+TKT-1077,2024-03-19,,Software,Office,Low,In Progress,Ravi,Call,IT,16,Met
+TKT-1078,2024-07-07,2024-07-07,Email,Outlook,Medium,Resolved,Aishwarya,Portal,HR,11,Met
+TKT-1079,2024-06-08,,Application,CRM,Critical,In Progress,Ravi,Email,Operations,37,Breached
+TKT-1080,2024-05-04,,Application,CRM,Low,In Progress,Aishwarya,Call,Operations,7,Met
+TKT-1081,2024-08-07,,Network,VPN,High,Open,Divya,Call,HR,43,Breached
+TKT-1082,2024-08-09,2024-08-10,Application,CRM,Medium,Resolved,Ravi,Portal,Operations,24,Breached
+TKT-1083,2024-05-18,2024-05-19,Email,Mailbox,Critical,Resolved,Priya,Portal,IT,40,Breached
+TKT-1084,2024-06-14,,Hardware,Desktop,Critical,Open,Divya,Portal,Operations,16,Breached
+TKT-1085,2024-07-13,,Hardware,Desktop,High,Open,Divya,Email,IT,22,Breached
+TKT-1086,2024-05-12,,Network,LAN,High,In Progress,Aishwarya,Portal,Finance,22,Breached
+TKT-1087,2024-02-13,,Application,CRM,Critical,In Progress,Ravi,Portal,Sales,16,Breached
+TKT-1088,2024-09-08,,Hardware,Laptop,High,Open,Divya,Portal,Finance,29,Breached
+TKT-1089,2024-06-05,,Email,Mailbox,Critical,In Progress,Suresh,Call,Sales,43,Breached
+TKT-1090,2024-10-08,2024-10-08,Network,LAN,Critical,Resolved,Karthik,Call,Finance,22,Breached
+TKT-1091,2024-03-02,,Software,Office,Low,In Progress,Suresh,Portal,Finance,47,Breached
+TKT-1092,2024-04-08,,Application,CRM,High,In Progress,Suresh,Portal,Operations,14,Breached
+TKT-1093,2024-05-24,2024-05-24,Software,Office,Medium,Resolved,Ravi,Call,HR,7,Met
+TKT-1094,2024-09-30,,Network,VPN,Low,In Progress,Karthik,Portal,Finance,9,Met
+TKT-1095,2024-09-08,2024-09-08,Hardware,Printer,High,Resolved,Divya,Call,IT,7,Met
+TKT-1096,2024-04-04,,Network,WiFi,Low,Open,Divya,Call,HR,4,Met
+TKT-1097,2024-10-22,,Application,ERP,Medium,Open,Suresh,Call,HR,41,Breached
+TKT-1098,2024-05-07,,Email,Mailbox,Medium,In Progress,Divya,Call,Sales,8,Met
+TKT-1099,2024-06-01,,Access,Folder Access,Low,In Progress,Priya,Email,Finance,38,Breached
+TKT-1100,2024-04-18,,Application,ERP,Medium,Open,Ravi,Portal,HR,17,Breached
+TKT-1101,2024-03-21,2024-03-21,Access,Folder Access,Critical,Resolved,Aishwarya,Email,IT,1,Met
+TKT-1102,2024-05-24,2024-05-25,Access,User Access,Medium,Resolved,Priya,Portal,Finance,45,Breached
+TKT-1103,2024-08-05,2024-08-05,Email,Outlook,Medium,Resolved,Ravi,Email,HR,8,Met
+TKT-1104,2024-03-25,,Email,Mailbox,Critical,Open,Divya,Portal,IT,20,Breached
+TKT-1105,2024-07-25,,Email,Mailbox,Critical,Open,Suresh,Email,Sales,18,Breached
+TKT-1106,2024-06-14,,Network,VPN,Low,Open,Priya,Portal,Operations,39,Breached
+TKT-1107,2024-01-11,,Network,LAN,Low,Open,Divya,Portal,Sales,44,Breached
+TKT-1108,2024-05-22,,Email,Mailbox,Critical,Open,Divya,Call,Sales,12,Breached
+TKT-1109,2024-06-19,2024-06-19,Application,ERP,Medium,Resolved,Divya,Portal,Sales,21,Breached
+TKT-1110,2024-05-27,,Access,User Access,Critical,Open,Karthik,Call,IT,43,Breached
+TKT-1111,2024-02-29,2024-03-01,Email,Outlook,Critical,Resolved,Aishwarya,Email,Operations,26,Breached
+TKT-1112,2024-07-04,,Access,Folder Access,Low,Open,Karthik,Portal,Finance,40,Breached
+TKT-1113,2024-05-27,,Application,CRM,Low,Open,Priya,Portal,Finance,29,Breached
+TKT-1114,2024-03-22,,Email,Outlook,Critical,Open,Ravi,Email,Sales,20,Breached
+TKT-1115,2024-03-01,,Software,Office,High,In Progress,Priya,Call,Sales,42,Breached
+TKT-1116,2024-09-04,2024-09-05,Software,Office,Medium,Resolved,Ravi,Portal,Operations,31,Breached
+TKT-1117,2024-03-10,,Network,WiFi,High,In Progress,Karthik,Email,IT,5,Met
+TKT-1118,2024-06-01,2024-06-02,Email,Mailbox,Medium,Resolved,Suresh,Call,IT,38,Breached
+TKT-1119,2024-06-19,2024-06-20,Email,Mailbox,Critical,Resolved,Ravi,Portal,Finance,36,Breached
+TKT-1120,2024-10-19,2024-10-20,Software,Office,Low,Resolved,Priya,Call,Sales,25,Breached
+TKT-1121,2024-07-16,,Application,ERP,Critical,Open,Ravi,Portal,Operations,43,Breached
+TKT-1122,2024-06-18,,Access,User Access,Critical,Open,Priya,Email,Sales,7,Breached
+TKT-1123,2024-03-20,,Access,Folder Access,High,In Progress,Priya,Call,HR,5,Met
+TKT-1124,2024-06-17,,Email,Mailbox,High,In Progress,Priya,Call,Operations,44,Breached
+TKT-1125,2024-01-19,,Hardware,Laptop,High,Open,Priya,Email,Sales,40,Breached
+TKT-1126,2024-02-20,,Application,ERP,Critical,Open,Priya,Call,HR,41,Breached
+TKT-1127,2024-01-24,2024-01-24,Hardware,Desktop,High,Resolved,Divya,Email,Finance,21,Breached
+TKT-1128,2024-09-28,,Email,Outlook,Medium,Open,Aishwarya,Portal,Sales,27,Breached
+TKT-1129,2024-05-03,2024-05-04,Email,Outlook,Medium,Resolved,Priya,Call,Sales,32,Breached
+TKT-1130,2024-05-10,,Hardware,Desktop,High,In Progress,Suresh,Email,HR,43,Breached
+TKT-1131,2024-08-14,,Email,Mailbox,Critical,In Progress,Karthik,Call,IT,23,Breached
+TKT-1132,2024-04-11,2024-04-12,Access,User Access,Medium,Resolved,Suresh,Call,Operations,25,Breached
+TKT-1133,2024-05-31,2024-06-01,Network,VPN,Critical,Resolved,Aishwarya,Portal,HR,45,Breached
+TKT-1134,2024-09-11,,Software,Antivirus,High,Open,Priya,Email,Operations,19,Breached
+TKT-1135,2024-05-08,,Application,ERP,Low,In Progress,Priya,Email,IT,44,Breached
+TKT-1136,2024-08-13,,Email,Mailbox,Medium,Open,Karthik,Call,Sales,3,Met
+TKT-1137,2024-03-30,,Software,Antivirus,High,In Progress,Suresh,Call,Finance,13,Breached
+TKT-1138,2024-05-11,,Network,LAN,High,Open,Divya,Email,Finance,31,Breached
+TKT-1139,2024-04-25,,Application,CRM,High,Open,Divya,Email,IT,44,Breached
+TKT-1140,2024-10-01,,Access,Folder Access,High,In Progress,Divya,Portal,IT,8,Met
+TKT-1141,2024-02-25,,Software,Office,Low,In Progress,Suresh,Call,Operations,44,Breached
+TKT-1142,2024-04-23,,Hardware,Printer,Critical,In Progress,Karthik,Portal,Sales,42,Breached
+TKT-1143,2024-02-29,2024-02-29,Hardware,Laptop,High,Resolved,Aishwarya,Email,Finance,9,Breached
+TKT-1144,2024-10-02,,Access,Folder Access,High,In Progress,Priya,Portal,Operations,9,Breached
+TKT-1145,2024-08-02,,Application,ERP,Critical,In Progress,Aishwarya,Call,Operations,38,Breached
+TKT-1146,2024-07-27,,Hardware,Printer,High,Open,Divya,Call,Finance,18,Breached
+TKT-1147,2024-07-04,,Application,CRM,High,Open,Divya,Call,Finance,7,Met
+TKT-1148,2024-03-03,,Hardware,Printer,Medium,In Progress,Priya,Portal,HR,30,Breached
+TKT-1149,2024-01-26,,Software,OS,Medium,Open,Suresh,Email,Operations,22,Breached
+TKT-1150,2024-04-20,2024-04-20,Network,VPN,Low,Resolved,Ravi,Email,Operations,15,Met
+TKT-1151,2024-05-08,,Hardware,Printer,Low,Open,Aishwarya,Call,Finance,12,Met
+TKT-1152,2024-06-14,,Software,Office,Low,Open,Priya,Call,Operations,2,Met
+TKT-1153,2024-02-28,2024-03-01,Hardware,Desktop,Critical,Resolved,Suresh,Portal,HR,48,Breached
+TKT-1154,2024-08-19,,Software,Antivirus,Low,In Progress,Priya,Portal,IT,33,Breached
+TKT-1155,2024-08-22,2024-08-23,Hardware,Laptop,Critical,Resolved,Divya,Portal,HR,42,Breached
+TKT-1156,2024-09-08,2024-09-09,Access,User Access,Low,Resolved,Suresh,Email,HR,46,Breached
+TKT-1157,2024-03-05,,Email,Mailbox,Critical,In Progress,Suresh,Call,Sales,18,Breached
+TKT-1158,2024-09-15,,Access,User Access,Low,In Progress,Priya,Portal,Finance,39,Breached
+TKT-1159,2024-08-08,2024-08-09,Software,Office,High,Resolved,Divya,Call,HR,29,Breached
+TKT-1160,2024-06-09,2024-06-10,Network,LAN,High,Resolved,Ravi,Portal,Sales,28,Breached
+TKT-1161,2024-02-04,,Hardware,Laptop,Critical,Open,Priya,Portal,IT,6,Breached
+TKT-1162,2024-03-07,,Hardware,Printer,High,In Progress,Aishwarya,Call,IT,36,Breached
+TKT-1163,2024-08-04,2024-08-05,Hardware,Desktop,High,Resolved,Aishwarya,Portal,Operations,47,Breached
+TKT-1164,2024-04-18,,Application,CRM,Medium,Open,Karthik,Portal,IT,10,Met
+TKT-1165,2024-02-28,,Email,Outlook,Critical,In Progress,Suresh,Portal,Operations,18,Breached
+TKT-1166,2024-01-14,,Application,CRM,Low,Open,Karthik,Portal,IT,39,Breached
+TKT-1167,2024-06-22,,Hardware,Laptop,Medium,In Progress,Priya,Call,HR,23,Breached
+TKT-1168,2024-03-13,,Application,ERP,Low,In Progress,Suresh,Email,Sales,48,Breached
+TKT-1169,2024-08-02,2024-08-03,Network,VPN,High,Resolved,Priya,Call,Operations,30,Breached
+TKT-1170,2024-02-13,,Software,OS,Low,In Progress,Aishwarya,Call,Sales,4,Met
+TKT-1171,2024-08-05,2024-08-06,Email,Mailbox,Critical,Resolved,Ravi,Portal,HR,32,Breached
+TKT-1172,2024-06-25,,Hardware,Desktop,Critical,In Progress,Priya,Call,HR,28,Breached
+TKT-1173,2024-04-22,,Email,Outlook,Low,Open,Karthik,Email,Finance,26,Breached
+TKT-1174,2024-05-10,2024-05-10,Network,VPN,Low,Resolved,Priya,Call,Finance,19,Met
+TKT-1175,2024-03-07,,Email,Outlook,High,Open,Divya,Portal,HR,25,Breached
+TKT-1176,2024-08-11,,Access,User Access,High,In Progress,Divya,Portal,Sales,2,Met
+TKT-1177,2024-08-01,2024-08-01,Hardware,Desktop,Low,Resolved,Ravi,Portal,Sales,19,Met
+TKT-1178,2024-07-04,2024-07-04,Access,User Access,Medium,Resolved,Suresh,Call,Operations,6,Met
+TKT-1179,2024-02-10,,Network,LAN,High,Open,Karthik,Email,HR,26,Breached
+TKT-1180,2024-09-18,2024-09-19,Hardware,Printer,Medium,Resolved,Karthik,Portal,Finance,41,Breached
+TKT-1181,2024-04-30,,Software,Office,Medium,Open,Suresh,Email,HR,7,Met
+TKT-1182,2024-03-31,,Access,Folder Access,Critical,In Progress,Suresh,Portal,Operations,41,Breached
+TKT-1183,2024-06-14,,Network,VPN,Critical,Open,Divya,Call,IT,41,Breached
+TKT-1184,2024-05-20,2024-05-21,Hardware,Desktop,Low,Resolved,Divya,Call,HR,38,Breached
+TKT-1185,2024-01-30,,Network,VPN,Low,In Progress,Suresh,Portal,Sales,24,Met
+TKT-1186,2024-08-24,,Email,Outlook,Critical,In Progress,Priya,Email,IT,38,Breached
+TKT-1187,2024-08-31,,Software,OS,Critical,Open,Karthik,Portal,HR,33,Breached
+TKT-1188,2024-09-15,,Software,OS,Medium,In Progress,Divya,Call,Operations,42,Breached
+TKT-1189,2024-09-24,2024-09-25,Software,Office,High,Resolved,Divya,Call,IT,40,Breached
+TKT-1190,2024-01-27,2024-01-28,Application,CRM,Low,Resolved,Aishwarya,Portal,Sales,41,Breached
+TKT-1191,2024-05-25,,Application,ERP,High,Open,Suresh,Portal,Finance,17,Breached
+TKT-1192,2024-06-28,,Application,CRM,Medium,In Progress,Priya,Email,IT,20,Breached
+TKT-1193,2024-10-13,,Application,CRM,Medium,In Progress,Priya,Portal,Operations,25,Breached
+TKT-1194,2024-02-17,,Application,CRM,High,Open,Karthik,Call,Finance,42,Breached
+TKT-1195,2024-04-19,,Access,User Access,Medium,Open,Ravi,Email,IT,22,Breached
+TKT-1196,2024-02-21,,Email,Outlook,High,In Progress,Ravi,Portal,Sales,33,Breached
+TKT-1197,2024-03-19,,Software,Antivirus,Medium,In Progress,Divya,Email,Sales,11,Met
+TKT-1198,2024-07-05,,Application,ERP,Critical,In Progress,Karthik,Portal,Sales,44,Breached
+TKT-1199,2024-04-29,,Software,Office,Critical,Open,Karthik,Portal,Operations,35,Breached
+TKT-1200,2024-08-13,,Network,WiFi,Critical,Open,Ravi,Portal,Finance,30,Breached
+TKT-1201,2024-05-08,,Application,CRM,High,In Progress,Aishwarya,Portal,Operations,4,Met
+TKT-1202,2024-03-04,2024-03-04,Hardware,Laptop,High,Resolved,Suresh,Email,Sales,19,Breached
+TKT-1203,2024-02-16,2024-02-16,Access,Folder Access,Low,Resolved,Aishwarya,Call,Operations,15,Met
+TKT-1204,2024-07-10,,Access,User Access,High,Open,Aishwarya,Call,HR,16,Breached
+TKT-1205,2024-06-20,2024-06-20,Software,OS,High,Resolved,Priya,Email,Sales,10,Breached
+TKT-1206,2024-08-17,2024-08-18,Hardware,Laptop,Low,Resolved,Ravi,Email,Operations,40,Breached
+TKT-1207,2024-09-27,2024-09-28,Hardware,Desktop,Medium,Resolved,Aishwarya,Email,Finance,28,Breached
+TKT-1208,2024-08-02,,Email,Mailbox,Low,Open,Divya,Portal,Operations,41,Breached
+TKT-1209,2024-01-09,2024-01-10,Email,Outlook,Medium,Resolved,Divya,Email,Operations,41,Breached
+TKT-1210,2024-06-29,,Email,Mailbox,Medium,In Progress,Priya,Email,Operations,16,Met
+TKT-1211,2024-07-03,2024-07-03,Email,Outlook,Critical,Resolved,Aishwarya,Portal,Sales,5,Breached
+TKT-1212,2024-07-10,,Application,ERP,High,Open,Karthik,Email,HR,17,Breached
+TKT-1213,2024-10-24,2024-10-26,Network,VPN,Low,Resolved,Suresh,Call,Finance,48,Breached
+TKT-1214,2024-08-25,,Access,User Access,Medium,Open,Priya,Call,HR,45,Breached
+TKT-1215,2024-05-30,2024-05-30,Hardware,Laptop,Low,Resolved,Karthik,Portal,Sales,13,Met
+TKT-1216,2024-10-05,2024-10-06,Network,VPN,Medium,Resolved,Karthik,Email,IT,31,Breached
+TKT-1217,2024-05-19,,Network,WiFi,Critical,In Progress,Divya,Call,IT,8,Breached
+TKT-1218,2024-04-05,,Application,CRM,High,In Progress,Karthik,Email,Sales,32,Breached
+TKT-1219,2024-02-10,2024-02-11,Email,Outlook,High,Resolved,Aishwarya,Email,IT,28,Breached
+TKT-1220,2024-05-31,,Access,Folder Access,Medium,In Progress,Divya,Call,Sales,20,Breached
+TKT-1221,2024-01-22,2024-01-23,Network,LAN,Critical,Resolved,Priya,Email,HR,47,Breached
+TKT-1222,2024-07-26,,Email,Outlook,Low,Open,Suresh,Portal,Sales,24,Met
+TKT-1223,2024-01-18,2024-01-18,Hardware,Laptop,High,Resolved,Divya,Portal,HR,9,Breached
+TKT-1224,2024-03-19,2024-03-20,Access,Folder Access,High,Resolved,Aishwarya,Portal,Finance,44,Breached
+TKT-1225,2024-09-28,,Access,Folder Access,High,Open,Aishwarya,Email,Finance,24,Breached
+TKT-1226,2024-09-12,2024-09-13,Access,User Access,High,Resolved,Priya,Call,Finance,34,Breached
+TKT-1227,2024-05-26,,Access,User Access,Low,Open,Aishwarya,Call,Finance,45,Breached
+TKT-1228,2024-08-15,,Application,CRM,High,In Progress,Aishwarya,Portal,Operations,6,Met
+TKT-1229,2024-05-28,2024-05-28,Software,Antivirus,Medium,Resolved,Suresh,Email,HR,20,Breached
+TKT-1230,2024-04-12,2024-04-12,Software,Office,Low,Resolved,Suresh,Portal,IT,9,Met
+TKT-1231,2024-08-27,,Software,Antivirus,Low,Open,Karthik,Call,Sales,36,Breached
+TKT-1232,2024-09-26,2024-09-27,Access,User Access,Medium,Resolved,Priya,Email,Sales,27,Breached
+TKT-1233,2024-08-26,,Email,Mailbox,Medium,In Progress,Priya,Portal,Finance,44,Breached
+TKT-1234,2024-03-07,,Email,Outlook,Low,In Progress,Ravi,Call,Finance,28,Breached
+TKT-1235,2024-03-23,,Application,ERP,High,In Progress,Karthik,Email,IT,21,Breached
+TKT-1236,2024-04-10,,Email,Mailbox,Medium,In Progress,Karthik,Portal,Operations,41,Breached
+TKT-1237,2024-02-17,,Application,ERP,Medium,Open,Priya,Portal,Operations,33,Breached
+TKT-1238,2024-06-21,,Hardware,Laptop,Low,Open,Priya,Portal,IT,37,Breached
+TKT-1239,2024-04-17,,Access,User Access,Critical,In Progress,Suresh,Call,IT,37,Breached
+TKT-1240,2024-09-04,2024-09-04,Application,CRM,High,Resolved,Aishwarya,Portal,HR,16,Breached
+TKT-1241,2024-03-21,,Access,Folder Access,Critical,Open,Karthik,Portal,Finance,29,Breached
+TKT-1242,2024-06-09,2024-06-10,Network,LAN,High,Resolved,Ravi,Call,Operations,46,Breached
+TKT-1243,2024-10-14,,Network,VPN,Critical,Open,Karthik,Call,Finance,7,Breached
+TKT-1244,2024-03-13,,Hardware,Desktop,Critical,In Progress,Divya,Email,Finance,7,Breached
+TKT-1245,2024-06-16,,Application,CRM,Medium,Open,Divya,Portal,Sales,37,Breached
+TKT-1246,2024-09-12,2024-09-12,Access,User Access,Low,Resolved,Suresh,Call,Finance,20,Met
+TKT-1247,2024-04-20,2024-04-21,Network,VPN,Low,Resolved,Divya,Portal,Sales,38,Breached
+TKT-1248,2024-05-26,,Hardware,Laptop,Critical,Open,Karthik,Portal,IT,35,Breached
+TKT-1249,2024-07-25,,Hardware,Desktop,Low,In Progress,Suresh,Email,IT,24,Met
+TKT-1250,2024-10-10,,Hardware,Desktop,Critical,In Progress,Karthik,Portal,Operations,19,Breached
+TKT-1251,2024-03-01,2024-03-01,Hardware,Desktop,High,Resolved,Suresh,Call,Finance,9,Breached
+TKT-1252,2024-04-11,,Email,Mailbox,Low,Open,Aishwarya,Email,IT,39,Breached
+TKT-1253,2024-08-30,2024-08-31,Access,User Access,Medium,Resolved,Suresh,Call,Finance,34,Breached
+TKT-1254,2024-07-20,,Application,CRM,High,In Progress,Suresh,Portal,Sales,40,Breached
+TKT-1255,2024-10-15,2024-10-15,Access,User Access,High,Resolved,Priya,Email,Sales,20,Breached
+TKT-1256,2024-10-25,2024-10-25,Application,ERP,Critical,Resolved,Priya,Portal,Operations,20,Breached
+TKT-1257,2024-04-26,,Hardware,Printer,Critical,Open,Suresh,Portal,Operations,47,Breached
+TKT-1258,2024-07-13,,Application,ERP,Low,In Progress,Priya,Email,Finance,10,Met
+TKT-1259,2024-01-10,2024-01-11,Network,WiFi,Medium,Resolved,Priya,Email,Sales,29,Breached
+TKT-1260,2024-09-13,,Access,User Access,Medium,In Progress,Ravi,Portal,IT,40,Breached
+TKT-1261,2024-09-01,2024-09-02,Access,Folder Access,Medium,Resolved,Suresh,Call,Operations,34,Breached
+TKT-1262,2024-06-30,,Application,CRM,Critical,Open,Ravi,Call,Operations,44,Breached
+TKT-1263,2024-06-01,,Network,WiFi,Medium,In Progress,Priya,Call,IT,15,Met
+TKT-1264,2024-09-02,,Email,Mailbox,High,Open,Suresh,Portal,Operations,23,Breached
+TKT-1265,2024-07-13,,Network,VPN,High,Open,Karthik,Portal,HR,26,Breached
+TKT-1266,2024-06-26,,Application,CRM,Critical,Open,Ravi,Portal,IT,29,Breached
+TKT-1267,2024-10-14,,Network,VPN,Low,In Progress,Priya,Portal,Finance,45,Breached
+TKT-1268,2024-05-04,,Application,ERP,Medium,Open,Aishwarya,Call,IT,4,Met
+TKT-1269,2024-08-29,,Application,ERP,Low,In Progress,Ravi,Call,Sales,7,Met
+TKT-1270,2024-09-01,2024-09-02,Software,Office,High,Resolved,Priya,Email,HR,42,Breached
+TKT-1271,2024-10-20,2024-10-20,Email,Outlook,Medium,Resolved,Ravi,Email,Sales,15,Met
+TKT-1272,2024-09-10,,Application,CRM,Low,Open,Karthik,Portal,Operations,12,Met
+TKT-1273,2024-02-24,,Network,WiFi,Critical,Open,Suresh,Call,IT,22,Breached
+TKT-1274,2024-04-08,,Network,VPN,Critical,In Progress,Karthik,Portal,Finance,8,Breached
+TKT-1275,2024-01-08,,Network,WiFi,Medium,Open,Suresh,Portal,Sales,48,Breached
+TKT-1276,2024-08-06,,Network,VPN,Critical,In Progress,Aishwarya,Email,Finance,33,Breached
+TKT-1277,2024-09-01,2024-09-01,Software,OS,High,Resolved,Ravi,Call,IT,21,Breached
+TKT-1278,2024-06-17,,Email,Outlook,High,In Progress,Karthik,Portal,Finance,20,Breached
+TKT-1279,2024-02-01,,Hardware,Desktop,High,Open,Divya,Portal,Operations,43,Breached
+TKT-1280,2024-06-08,2024-06-09,Hardware,Printer,High,Resolved,Suresh,Email,Finance,45,Breached
+TKT-1281,2024-03-09,2024-03-10,Software,Office,High,Resolved,Priya,Portal,Sales,31,Breached
+TKT-1282,2024-10-02,,Software,OS,Low,In Progress,Divya,Portal,IT,43,Breached
+TKT-1283,2024-02-09,,Hardware,Laptop,Medium,In Progress,Suresh,Email,Finance,37,Breached
+TKT-1284,2024-06-16,,Access,User Access,Medium,In Progress,Suresh,Call,HR,34,Breached
+TKT-1285,2024-09-18,,Hardware,Desktop,Medium,In Progress,Divya,Call,Operations,29,Breached
+TKT-1286,2024-01-30,2024-01-31,Access,Folder Access,Low,Resolved,Karthik,Email,Finance,36,Breached
+TKT-1287,2024-10-23,,Hardware,Desktop,High,In Progress,Aishwarya,Portal,HR,5,Met
+TKT-1288,2024-02-05,,Hardware,Desktop,Critical,Open,Ravi,Portal,Sales,31,Breached
+TKT-1289,2024-07-10,,Access,Folder Access,Critical,Open,Priya,Portal,Operations,25,Breached
+TKT-1290,2024-03-09,,Network,VPN,Medium,In Progress,Divya,Portal,Finance,42,Breached
+TKT-1291,2024-04-24,,Hardware,Desktop,Critical,In Progress,Priya,Portal,Sales,1,Met
+TKT-1292,2024-09-29,2024-09-30,Software,OS,Critical,Resolved,Ravi,Call,Finance,25,Breached
+TKT-1293,2024-02-27,,Application,CRM,Low,Open,Ravi,Email,HR,3,Met
+TKT-1294,2024-01-18,,Email,Outlook,Medium,In Progress,Aishwarya,Call,Sales,29,Breached
+TKT-1295,2024-04-29,,Software,OS,Medium,In Progress,Karthik,Email,Operations,35,Breached
+TKT-1296,2024-06-12,2024-06-13,Email,Mailbox,Medium,Resolved,Ravi,Portal,Operations,37,Breached
+TKT-1297,2024-04-23,,Network,WiFi,Low,In Progress,Suresh,Portal,Finance,27,Breached
+TKT-1298,2024-08-06,,Access,User Access,High,In Progress,Priya,Call,Operations,36,Breached
+TKT-1299,2024-06-12,2024-06-13,Access,Folder Access,Medium,Resolved,Divya,Email,Operations,45,Breached
+TKT-1300,2024-08-30,2024-08-30,Software,Office,Medium,Resolved,Aishwarya,Portal,Sales,16,Met
